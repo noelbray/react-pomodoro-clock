@@ -13,7 +13,8 @@ I also left in the commented out code so that I can:
 
 - Set the "Break Length" or "Session Length" by clicking the "up" or "down" arrows.
 - Clicking "Start", starts the time and changes to "Started".
-  - Once the text has changed from "Start" to "Started," you can click it again to restart the clock.
+- Once the text has changed from "Start" to "Started," you can click "Started" to "Stop" the clock.
+- Click "Stop" to restart the clock when you are ready to.
 - "Reset" should reset the timer at any given moment, whether the timer has started or stopped. 
 - "View Break Timer" will show you the break timer.
 
